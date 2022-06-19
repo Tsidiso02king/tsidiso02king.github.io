@@ -292,7 +292,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: rgba(43, 3, 3, 0.75);
+		color: rgba(250, 239, 239, 0.75);
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 1rem;
 		font-weight: 300;
